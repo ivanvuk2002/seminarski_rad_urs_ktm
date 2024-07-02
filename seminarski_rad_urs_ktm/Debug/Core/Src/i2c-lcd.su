@@ -1,0 +1,7 @@
+../Core/Src/i2c-lcd.c:8:6:lcd__cmd	32	static
+../Core/Src/i2c-lcd.c:22:6:lcd__data	32	static
+../Core/Src/i2c-lcd.c:36:6:lcd_clear	8	static
+../Core/Src/i2c-lcd.c:43:6:lcd_put_cur	16	static
+../Core/Src/i2c-lcd.c:59:6:lcd_init	8	static
+../Core/Src/i2c-lcd.c:84:6:lcd__string	16	static
+../Core/Src/i2c-lcd.c:90:6:lcd_print_distance	32	static
